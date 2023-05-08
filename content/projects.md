@@ -33,7 +33,7 @@ I developed an AI writing assistant that leverages OpenAI's GPT-3 model to gener
 **Volcano Eruptions in the 21st Century: Interactive Visualization**  
 A data-driven project that uses Tableau to create an interactive and informative visualization of volcano eruptions that have occurred in the 21st century.
 
-{{< image src="/img/Data_viz - New Design.png" alt="Volcani Eruption data viz" position="left" style="width: 50%;" >}}
+{{< image src="/img/Data_viz - New Design.png" alt="Volcani Eruption data viz" position="left" style="width: 85%;" >}}
 
 {{< image src="https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=" alt="Tableau" style="padding-top: 3px;" >}}
 
@@ -79,11 +79,11 @@ similarities in the behaviour of user types.
 **World Happiness Report: Regional Health Analytics**  
 This project utilizes data from the World Happiness Report to provide insights on the relationship between happiness and health at the regional level. This data-driven analysis sheds light on the factors that contribute to the happiness and well-being of people in different regions, informing public health policies and initiatives.
 
-{{< image src="/img/projects_2-copy.png" alt="Correlation map" style="width: 50%;" >}}
-{{< image src="/img/projects_5.png" alt="Chart 1" style="width: 50%;" >}}
+{{< image src="/img/projects_2-copy.png" alt="Correlation map" style="width: 85%;" >}}
+{{< image src="/img/projects_5.png" alt="Chart 1" style="width: 85%;" >}}
 
 {{< image src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=" alt="Microsoft Excel" title="Microsoft Excel" style="float: left; margin-right: 10px; padding-top: 3px;" >}}
 {{< image src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+PowerPoint&color=B7472A&logo=Microsoft+PowerPoint&logoColor=FFFFFF&label=" alt="Microsoft PowerPoint" title="Microsoft PowerPoint" style="float: left; margin-right: 10px; padding-top: 3px;" >}}
 {{< image src="https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=" alt="Tableau" title="Tableau" style="padding-top: 3px;" >}}
 
-[View presentation in google drive]()
+[View presentation in google drive](https://drive.google.com/file/d/1TztOhuCcGftp1DyDm8gzwCfJUKzwNrBS/view)
