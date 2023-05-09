@@ -8,7 +8,7 @@ author = "2023-05-07"
 <!-- I'm a data analyst/scientist with expertise in programming languages like Python, Golang, SQL, and R, as well as analytics tools such as MS Excel, Tableau, and Google Sheets. My skills in analytical and creative thinking, data-driven decision making, and collaborative storytelling have allowed me to streamline operations and maximize profits for various organizations, including KonfamPay. -->
 I'm a data scientist with experience building and monitoring data pipelines, providing data-driven insights, and developing machine learning models.  
 I enjoy listening to music and meticously moving along to every beat and melody.  
-I'm an active fan of movies and deeply appreciate the artistry of great dialogue. Dreaming and working towards finding fulfillment in creative pursuits. 
+I'm an active fan of movies and deeply appreciate the artistry of great dialogues. Dreaming and working towards finding fulfillment in creative pursuits. 
 
 # Job history - timeline version
 **Nov 2022 - present**  
