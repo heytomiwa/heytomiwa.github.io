@@ -2,7 +2,7 @@
 title = "Deep Learning with FastAI, Part 1: Lesson 1"
 date = "2023-05-07"
 author = "Tomiwa Adedokun"
-description = "Playing aroung with Basquiat's paintings."
+description = "Playing around with Basquiat's paintings."
 +++
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. -->
